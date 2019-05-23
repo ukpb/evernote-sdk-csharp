@@ -2,6 +2,8 @@
 
 Evernote API version 1.29
 
+PLEASE NOTE: This is a .net standard 2 version for use with core/standard/framework 4.6.1+
+
 ## Overview
 
 This SDK contains wrapper code used to call the Evernote Cloud API from C# applications.
